@@ -1,0 +1,15 @@
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\TesatreSDBIS.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\TesatreSDBIS.pdb
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\WebDriver.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\bin\Debug\WebDriver.xml
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\obj\Debug\TesatreSDBIS.csprojAssemblyReference.cache
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\obj\Debug\TesatreSDBIS.csproj.CopyComplete
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\obj\Debug\TesatreSDBIS.dll
+C:\Users\Carp Bianca\Desktop\TesatreSDBIS\TesatreSDBIS\obj\Debug\TesatreSDBIS.pdb
